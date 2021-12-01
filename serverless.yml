@@ -1,6 +1,6 @@
 terraform-test-deploy-next-bschabel:
-  component: '@sls-next/serverless-component@1.19.0'
-  domain:
-    - ${env.SUB_DOMAIN}
-    - ${env.DOMAIN}
-    memory: 1024
+  component: '@sls-next/serverless-component@3.6.0'
+#  domain:
+#    - ${env.SUB_DOMAIN}
+#    - ${env.DOMAIN}
+#    memory: 1024
